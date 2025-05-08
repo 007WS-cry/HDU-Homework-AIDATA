@@ -63,6 +63,10 @@ x_norm = (x - μ) / σ
 
 3. 使用选定的4个最相关特征构建的多元线性回归模型，能够有效捕捉波士顿房价的影响因素。
 
+## 输出结果实例
+
+![输出结果示例]("./Result.png")
+
 ## 使用说明
 1. 将housing.txt文件放在与可执行文件相同的目录下
 2. 编译C程序：`gcc -o boston_housing boston_housing.c -lm`
