@@ -65,7 +65,7 @@ x_norm = (x - μ) / σ
 
 ## 输出结果实例
 
-![输出结果示例]("https://github.com/007WS-cry/HDU-Homework-AIDATA/blob/main/Result.png")
+![输出结果示例](./Result.png)
 
 ## 使用说明
 1. 将housing.txt文件放在与可执行文件相同的目录下
